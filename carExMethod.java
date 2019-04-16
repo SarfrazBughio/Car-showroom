@@ -3,15 +3,15 @@ class carExMethod{
 	
 	carExMethod(String name){
 		
-		this.name = name;
+		   this.name = name;
 	}
 	
 	
 	
 	
-	public  void carName(){
+	    public  void carName(){
 		
-		System.out.println("Name of this car is "+name);
+		  System.out.println("Name of this car is "+name);
 	}
 
 
